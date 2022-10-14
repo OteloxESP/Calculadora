@@ -8,13 +8,12 @@
 
     <TableLayout
         android:id="@+id/tableLayout"
-        android:layout_width="377dp"
-        android:layout_height="401dp"
+        android:layout_width="360dp"
+        android:layout_height="391dp"
         android:layout_marginTop="314dp"
-        android:layout_marginBottom="16dp"
+        android:layout_marginBottom="40dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.56"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent">
 
@@ -42,42 +41,42 @@
                 android:layout_width="wrap_content"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
-                android:textColor="#FFFFFF"
-                android:textSize="30sp"
-                android:text="8"
                 android:background="@drawable/buttonshape"
                 android:shadowColor="#A8A8A8"
                 android:shadowDx="0"
                 android:shadowDy="0"
-                android:shadowRadius="5" />
+                android:shadowRadius="5"
+                android:text="8"
+                android:textColor="#FFFFFF"
+                android:textSize="30sp" />
 
             <Button
                 android:id="@+id/btn9"
                 android:layout_width="wrap_content"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
-                android:textColor="#FFFFFF"
-                android:textSize="30sp"
-                android:text="9"
                 android:background="@drawable/buttonshape"
                 android:shadowColor="#A8A8A8"
                 android:shadowDx="0"
                 android:shadowDy="0"
-                android:shadowRadius="5" />
+                android:shadowRadius="5"
+                android:text="9"
+                android:textColor="#FFFFFF"
+                android:textSize="30sp" />
 
             <Button
                 android:id="@+id/btnDivision"
                 android:layout_width="wrap_content"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
-                android:textColor="#FFFFFF"
-                android:textSize="16sp"
-                android:text="DIVISION"
                 android:background="@drawable/buttonshape"
                 android:shadowColor="#A8A8A8"
                 android:shadowDx="0"
                 android:shadowDy="0"
-                android:shadowRadius="5" />
+                android:shadowRadius="5"
+                android:text="DIVISION"
+                android:textColor="#FFFFFF"
+                android:textSize="16sp" />
         </TableRow>
 
         <TableRow
@@ -90,56 +89,56 @@
                 android:layout_width="wrap_content"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
-                android:textColor="#FFFFFF"
-                android:textSize="30sp"
-                android:text="4"
                 android:background="@drawable/buttonshape"
                 android:shadowColor="#A8A8A8"
                 android:shadowDx="0"
                 android:shadowDy="0"
-                android:shadowRadius="5" />
+                android:shadowRadius="5"
+                android:text="4"
+                android:textColor="#FFFFFF"
+                android:textSize="30sp" />
 
             <Button
                 android:id="@+id/btn5"
                 android:layout_width="wrap_content"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
-                android:textColor="#FFFFFF"
-                android:textSize="30sp"
-                android:text="5"
                 android:background="@drawable/buttonshape"
                 android:shadowColor="#A8A8A8"
                 android:shadowDx="0"
                 android:shadowDy="0"
-                android:shadowRadius="5" />
+                android:shadowRadius="5"
+                android:text="5"
+                android:textColor="#FFFFFF"
+                android:textSize="30sp" />
 
             <Button
                 android:id="@+id/btn6"
                 android:layout_width="wrap_content"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
-                android:textColor="#FFFFFF"
-                android:textSize="30sp"
-                android:text="6"
                 android:background="@drawable/buttonshape"
                 android:shadowColor="#A8A8A8"
                 android:shadowDx="0"
                 android:shadowDy="0"
-                android:shadowRadius="5" />
+                android:shadowRadius="5"
+                android:text="6"
+                android:textColor="#FFFFFF"
+                android:textSize="30sp" />
 
             <Button
                 android:id="@+id/btnMultiplicar"
                 android:layout_width="wrap_content"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
-                android:textColor="#FFFFFF"
-                android:textSize="14sp"
-                android:text="MULTIPILICAR"
                 android:background="@drawable/buttonshape"
                 android:shadowColor="#A8A8A8"
                 android:shadowDx="0"
                 android:shadowDy="0"
-                android:shadowRadius="5" />
+                android:shadowRadius="5"
+                android:text="MULTIPILICAR"
+                android:textColor="#FFFFFF"
+                android:textSize="14sp" />
         </TableRow>
 
         <TableRow
@@ -152,56 +151,56 @@
                 android:layout_width="wrap_content"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
-                android:textColor="#FFFFFF"
-                android:textSize="30sp"
-                android:text="1"
                 android:background="@drawable/buttonshape"
                 android:shadowColor="#A8A8A8"
                 android:shadowDx="0"
                 android:shadowDy="0"
-                android:shadowRadius="1"  />
+                android:shadowRadius="1"
+                android:text="1"
+                android:textColor="#FFFFFF"
+                android:textSize="30sp" />
 
             <Button
                 android:id="@+id/btn2"
                 android:layout_width="wrap_content"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
-                android:textColor="#FFFFFF"
-                android:textSize="30sp"
-                android:text="2"
                 android:background="@drawable/buttonshape"
                 android:shadowColor="#A8A8A8"
                 android:shadowDx="0"
                 android:shadowDy="0"
-                android:shadowRadius="2"  />
+                android:shadowRadius="2"
+                android:text="2"
+                android:textColor="#FFFFFF"
+                android:textSize="30sp" />
 
             <Button
                 android:id="@+id/btn3"
                 android:layout_width="wrap_content"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
-                android:textColor="#FFFFFF"
-                android:textSize="30sp"
-                android:text="3"
                 android:background="@drawable/buttonshape"
                 android:shadowColor="#A8A8A8"
                 android:shadowDx="0"
                 android:shadowDy="0"
-                android:shadowRadius="3"  />
+                android:shadowRadius="3"
+                android:text="3"
+                android:textColor="#FFFFFF"
+                android:textSize="30sp" />
 
             <Button
                 android:id="@+id/btnResta"
                 android:layout_width="wrap_content"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
-                android:textColor="#FFFFFF"
-                android:textSize="16sp"
-                android:text="RESTA"
                 android:background="@drawable/buttonshape"
                 android:shadowColor="#A8A8A8"
                 android:shadowDx="0"
                 android:shadowDy="0"
-                android:shadowRadius="5" />
+                android:shadowRadius="5"
+                android:text="RESTA"
+                android:textColor="#FFFFFF"
+                android:textSize="16sp" />
         </TableRow>
 
         <TableRow
@@ -228,14 +227,14 @@
                 android:layout_width="wrap_content"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
-                android:textColor="#FFFFFF"
-                android:textSize="30sp"
-                android:text="0"
                 android:background="@drawable/buttonshape"
                 android:shadowColor="#A8A8A8"
                 android:shadowDx="0"
                 android:shadowDy="0"
-                android:shadowRadius="5" />
+                android:shadowRadius="5"
+                android:text="0"
+                android:textColor="#FFFFFF"
+                android:textSize="30sp" />
 
             <Button
                 android:id="@+id/btnIgual"
@@ -256,14 +255,14 @@
                 android:layout_width="wrap_content"
                 android:layout_height="match_parent"
                 android:layout_weight="1"
-                android:textColor="#FFFFFF"
-                android:textSize="16sp"
-                android:text="SUMA"
                 android:background="@drawable/buttonshape"
                 android:shadowColor="#A8A8A8"
                 android:shadowDx="0"
                 android:shadowDy="0"
-                android:shadowRadius="5" />
+                android:shadowRadius="5"
+                android:text="SUMA"
+                android:textColor="#FFFFFF"
+                android:textSize="16sp" />
         </TableRow>
     </TableLayout>
 
