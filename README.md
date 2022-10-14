@@ -1,6 +1,5 @@
 ﻿# Calculadora
 Calculadora sencilla con la cual podras hacer sumas, restas, multiplicaciones y divisiones.
-![image](https://user-images.githubusercontent.com/101654298/195852343-22dbd626-d0d4-4ee1-a4e7-b2926c57df0d.png)
 
 Aqui podemos ver el como es la interfaz.
 
