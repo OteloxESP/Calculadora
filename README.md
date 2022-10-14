@@ -1,5 +1,5 @@
 ﻿# Calculadora
-Calculadora sencilla con la cual podras hacer sumas, restas, multiplicaciones y divisiones.
+Calculadora sencilla con la cual podras hacer sumas, restas, multiplicaciones y divisiones. 
 
 Aqui podemos ver el como es la interfaz.
 
